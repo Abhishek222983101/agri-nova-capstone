@@ -5,7 +5,7 @@
 ![Machine Learning](https://img.shields.io/badge/ML-Random%20Forest-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-green?style=for-the-badge)
 
-> **Machine Learning Capstone Project**
+> **ML Zoomcamp Capstone**
 > *An end-to-end Machine Learning Engineering solution for precision agriculture, deployed with Docker and Flask.*
 
 ---
