@@ -153,4 +153,4 @@ agri-nova-capstone/
 
 ## 👨‍💻 Author
 **Abhishek222983101**
-*ML Zoomcamp Capstone | 2025*
+*| ML Zoomcamp Capstone | 2025*
